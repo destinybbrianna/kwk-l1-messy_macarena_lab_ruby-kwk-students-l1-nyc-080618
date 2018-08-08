@@ -9,6 +9,7 @@ hate_count = 0
 puts "and the haters gonna"
 while hate_count < 5
 puts "hate"
+hate_count = hate_count + 1 
 end 
 
 
