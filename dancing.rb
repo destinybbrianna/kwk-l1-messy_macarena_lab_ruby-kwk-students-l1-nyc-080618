@@ -1,4 +1,7 @@
 def shake_it_out
  while play_count < 5
   play_count = 0 
-  puts 
+  puts "cause the players gonna"
+end 
+while hate_count < 5
+puts "and the haters gonna"
