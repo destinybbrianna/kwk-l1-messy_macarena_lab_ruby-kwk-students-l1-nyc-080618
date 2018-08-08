@@ -7,3 +7,10 @@ end
 while hate_count < 5
 play_count = 0 
 puts "and the haters gonna"
+
+
+
+end 
+
+
+end 
