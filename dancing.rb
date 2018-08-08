@@ -5,10 +5,10 @@ def shake_it_out
  puts "play"
    play_count = play_count + 1
 end 
+hate_count = 0 
+puts "and the haters gonna"
 while hate_count < 5
 puts "hate"
-
-
 end 
 
 
