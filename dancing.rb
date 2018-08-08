@@ -1,5 +1,5 @@
 def shake_it_out
- 
+ puts "cause the players gonna"
  while play_count < 5
   play_count = 0 
    play_count = play_count + 1
